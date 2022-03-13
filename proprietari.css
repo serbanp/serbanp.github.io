@@ -1,0 +1,13 @@
+.header-title {
+    text-align: center;
+}
+.register-button {
+    color: #FFF;
+    background-color:#007bff;
+    font-size:1rem;
+    border: none;
+    cursor: pointer;
+    line-height: 1.25;
+    padding: 8px 12px;
+    white-space: nowrap;
+}
